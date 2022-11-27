@@ -73,6 +73,8 @@ const quiz = [
       clickHandler(e);
     });
   }
+
+  //dfjj
   
   
   
