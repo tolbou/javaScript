@@ -2,12 +2,12 @@ const quiz = [
   {
     question: "４＋４は？",
     answers: [  
-      "８",
-      "７",
-      "６",
-      "５"  
+      "8",
+      "7",
+      "6",
+      "5"  
     ],
-  correct: "８"
+  correct: "8"
   },{
   
     question: "Javaで文字列を定義する場合は？",
